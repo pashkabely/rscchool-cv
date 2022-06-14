@@ -1,1 +1,1 @@
-# rscchool-cv
+# https://pashkabely.github.io/rsschool-cv/
